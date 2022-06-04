@@ -10,7 +10,7 @@
 <body bgcolor="#e49e41" align="center">
     <?php
     echo "<h1>Do_while loop</h1>";
-    echo "Abhishek kumar singh <br>";
+    echo "dhruv madaan<br>";
     $a = 0;
     do {
         echo $a . "<br>";
