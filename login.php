@@ -1,4 +1,5 @@
 <?php
+echo""dhruv Madaan;
    session_start();
    unset($_SESSION["username"]);
    unset($_SESSION["password"]);
