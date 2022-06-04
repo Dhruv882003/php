@@ -1,5 +1,5 @@
 <?php
-echo"dhruv madaan";
+echo"Dhruv madaan";
 echo"<br>";
 $arr=array(10,20,30,2,4,3);
 
