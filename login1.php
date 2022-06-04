@@ -20,6 +20,7 @@
     </form>
 </body>
 <?php
+    echo"Dhruv Madaan";
 echo date('l');
 echo date(" l js\of F Y h:/: S A");
 ?>
