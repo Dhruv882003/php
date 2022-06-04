@@ -1,5 +1,6 @@
 <?php
 $x=10;
+echo"Dhruv Madaan";
 function myfun()
 {
     global$x;
