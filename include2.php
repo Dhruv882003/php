@@ -7,7 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-<?php include 'include1.php'; ?>
+<?php include 'include1.php';
+    echo"dhruv";
+    ?>
 
 </div>
 </body>
